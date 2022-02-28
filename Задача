@@ -7,6 +7,7 @@ printf("Vvedite x:");
 scanf("%d", &x);
 
 y=5x + 20
+y=y*2
 
 printf("y = %d", y);
 getchar();
